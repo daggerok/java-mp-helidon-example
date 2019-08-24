@@ -152,3 +152,7 @@ kubectl get service java-mp-helidon-example  # Verify deployed service
 ```
 
 -->
+
+links:
+
+* [Helidon MicroProfile](https://helidon.io/docs/latest/#/guides/03_quickstart-mp)
